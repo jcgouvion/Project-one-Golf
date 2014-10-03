@@ -1,0 +1,190 @@
+html, body {
+
+	background-image: url("http://quickspikesgolf.com/php/wp-content/themes/quickspikes/img/backgrounds/grassBG.jpg");
+	font: Arial;
+	font-size: 20px;
+}
+
+.layout-container {
+	width: 1000px;
+	margin: auto;
+}
+
+.header-container {
+
+	width: 1000px;
+	margin: auto;
+	height: 135px;
+}
+button {
+	float: right;
+	position: relative;
+	right: 5px;
+}
+
+#img-header {
+	height: 150px;
+	width: 940px;
+}
+
+ul, li, a {
+	text-decoration: none;
+}
+
+#nav-list {
+	border: 1px solid hidden;
+	width: 75px;
+	background-color: black;
+}
+#footer-img-1 {
+	width: 150px;
+	height: 150px;
+}
+
+#footer-img-2 {
+	width: 150px;
+	height: 150px;
+}
+
+#footer-img-3 {
+	width: 150px;
+	height: 150px;
+	float: right;
+	position: relative;
+	left: 20px;
+}
+
+#footer-img-4 {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 720px;
+	bottom: 210px;
+}
+.footer-container {
+	border: 1px solid  hidden;
+	width: 1000px;
+	height: 360px;
+	top: 100px;
+	position: relative;
+}
+
+.footer-text, p {
+	text-align: center;
+	position: relative;
+}
+.content-container-text {
+	color: white;
+}
+.content-container-2-text {
+	color: white;
+}
+
+#img-callaway {
+
+	width: 400px;
+	height: 190px;
+}
+#img-cleveland {
+	width: 300px;
+	height: 150px;
+}
+p {
+	color: white;
+}
+
+#img-fb {
+	width: 60px;
+	height: 40px;
+	float: right;
+	position: relative;
+	bottom: 135px;
+}
+
+#img-twitter {
+	position: relative;
+	width: 80px;
+	height: 50px;
+	float: right;
+	left: 75px;
+	bottom: 95px;
+}
+#img-google {
+	position: relative;
+	width: 80px;
+	height: 50px;
+	float: right;
+	left: 160px;
+	bottom: 50px;
+}
+
+#img-golf {
+	position: relative;
+	width: 250px;
+	height: 390px;
+	float: right;
+}
+
+#img-copyright {
+	position: relative;
+	width: 25px;
+	height: 30px;
+	bottom: 165px;
+}
+#cf {
+	position: relative;
+	height: 281px;
+	width: 450px;
+	margin: 0 auto;
+}
+
+#cf img {
+	position: absolute;
+	left: 0;
+	-webkit-transition: opacity 1s ease-in-out;
+	-moz-transition: opacity 1s ease-in-out;
+	-o-transition: opacity 1s ease-in-out;
+	transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover {
+	opacity: 0;
+}
+
+}
+
+#gallery li {
+	float: left;
+}
+#gallery li a {
+	display: block;
+	height: 30px;
+	width: 320px;
+	float: left;
+	text-decoration: none;
+	border-bottom: 1px solid #fff;
+	cursor: default;
+}
+#gallery li a img {
+	width: 220px;
+	height: 30px;
+	border: 0;
+}
+#gallery li a:hover {
+	background: #eee;
+	height: 239px;
+}
+#gallery li a:hover img {
+	height: 239px;
+}
+
+#form-container-text {
+	color: white;
+}
+
+#section-text, ul, li {
+	color: white;
+}
+#section-text-2, ul, li {
+	color: white;
+}
