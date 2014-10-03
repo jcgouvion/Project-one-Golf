@@ -15,7 +15,7 @@
 	</p>
 	<ol>
 		<li>
-			Golf was fir played in the 15th century in Scotland
+			Golf was first played in the 15th century in Scotland
 		</li>
 		<li>
 			Golf is scored by how many shots it takes to complete 18 holes. The lowest score wins
